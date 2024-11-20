@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\frmShippers_2121050560_NguyenMinhPhuc\\NguyenMinhPhuc-CNPM-BaiKT2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0806D5CF-01EE-4377-A880-30A110A5E72E}|NguyenMinhPhuc-CNPM-BaiKT2\\NguyenMinhPhuc-CNPM-BaiKT2.csproj|d:\\frmshippers_2121050560_nguyenminhphuc\\nguyenminhphuc-cnpm-baikt2\\nguyenminhphuc-cnpm-baikt2\\frmshippers_2121050560_nguyenminhphuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0806D5CF-01EE-4377-A880-30A110A5E72E}|NguyenMinhPhuc-CNPM-BaiKT2\\NguyenMinhPhuc-CNPM-BaiKT2.csproj|solutionrelative:nguyenminhphuc-cnpm-baikt2\\frmshippers_2121050560_nguyenminhphuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0806D5CF-01EE-4377-A880-30A110A5E72E}|NguyenMinhPhuc-CNPM-BaiKT2\\NguyenMinhPhuc-CNPM-BaiKT2.csproj|d:\\frmshippers_2121050560_nguyenminhphuc\\nguyenminhphuc-cnpm-baikt2\\nguyenminhphuc-cnpm-baikt2\\frmshippers_2121050560_nguyenminhphuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0806D5CF-01EE-4377-A880-30A110A5E72E}|NguyenMinhPhuc-CNPM-BaiKT2\\NguyenMinhPhuc-CNPM-BaiKT2.csproj|solutionrelative:nguyenminhphuc-cnpm-baikt2\\frmshippers_2121050560_nguyenminhphuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0806D5CF-01EE-4377-A880-30A110A5E72E}|NguyenMinhPhuc-CNPM-BaiKT2\\NguyenMinhPhuc-CNPM-BaiKT2.csproj|d:\\frmshippers_2121050560_nguyenminhphuc\\nguyenminhphuc-cnpm-baikt2\\nguyenminhphuc-cnpm-baikt2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0806D5CF-01EE-4377-A880-30A110A5E72E}|NguyenMinhPhuc-CNPM-BaiKT2\\NguyenMinhPhuc-CNPM-BaiKT2.csproj|solutionrelative:nguyenminhphuc-cnpm-baikt2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0806D5CF-01EE-4377-A880-30A110A5E72E}|NguyenMinhPhuc-CNPM-BaiKT2\\NguyenMinhPhuc-CNPM-BaiKT2.csproj|d:\\frmshippers_2121050560_nguyenminhphuc\\nguyenminhphuc-cnpm-baikt2\\nguyenminhphuc-cnpm-baikt2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0806D5CF-01EE-4377-A880-30A110A5E72E}|NguyenMinhPhuc-CNPM-BaiKT2\\NguyenMinhPhuc-CNPM-BaiKT2.csproj|solutionrelative:nguyenminhphuc-cnpm-baikt2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0806D5CF-01EE-4377-A880-30A110A5E72E}|NguyenMinhPhuc-CNPM-BaiKT2\\NguyenMinhPhuc-CNPM-BaiKT2.csproj|d:\\frmshippers_2121050560_nguyenminhphuc\\nguyenminhphuc-cnpm-baikt2\\nguyenminhphuc-cnpm-baikt2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0806D5CF-01EE-4377-A880-30A110A5E72E}|NguyenMinhPhuc-CNPM-BaiKT2\\NguyenMinhPhuc-CNPM-BaiKT2.csproj|solutionrelative:nguyenminhphuc-cnpm-baikt2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmShippers_2121050560_NguyenMinhPhuc.xaml.cs",
+              "DocumentMoniker": "D:\\frmShippers_2121050560_NguyenMinhPhuc\\NguyenMinhPhuc-CNPM-BaiKT2\\NguyenMinhPhuc-CNPM-BaiKT2\\frmShippers_2121050560_NguyenMinhPhuc.xaml.cs",
+              "RelativeDocumentMoniker": "NguyenMinhPhuc-CNPM-BaiKT2\\frmShippers_2121050560_NguyenMinhPhuc.xaml.cs",
+              "ToolTip": "D:\\frmShippers_2121050560_NguyenMinhPhuc\\NguyenMinhPhuc-CNPM-BaiKT2\\NguyenMinhPhuc-CNPM-BaiKT2\\frmShippers_2121050560_NguyenMinhPhuc.xaml.cs*",
+              "RelativeToolTip": "NguyenMinhPhuc-CNPM-BaiKT2\\frmShippers_2121050560_NguyenMinhPhuc.xaml.cs*",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAkwKsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:36:25.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmShippers_2121050560_NguyenMinhPhuc.xaml",
+              "DocumentMoniker": "D:\\frmShippers_2121050560_NguyenMinhPhuc\\NguyenMinhPhuc-CNPM-BaiKT2\\NguyenMinhPhuc-CNPM-BaiKT2\\frmShippers_2121050560_NguyenMinhPhuc.xaml",
+              "RelativeDocumentMoniker": "NguyenMinhPhuc-CNPM-BaiKT2\\frmShippers_2121050560_NguyenMinhPhuc.xaml",
+              "ToolTip": "D:\\frmShippers_2121050560_NguyenMinhPhuc\\NguyenMinhPhuc-CNPM-BaiKT2\\NguyenMinhPhuc-CNPM-BaiKT2\\frmShippers_2121050560_NguyenMinhPhuc.xaml",
+              "RelativeToolTip": "NguyenMinhPhuc-CNPM-BaiKT2\\frmShippers_2121050560_NguyenMinhPhuc.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T09:30:46.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\frmShippers_2121050560_NguyenMinhPhuc\\NguyenMinhPhuc-CNPM-BaiKT2\\NguyenMinhPhuc-CNPM-BaiKT2\\App.xaml",
+              "RelativeDocumentMoniker": "NguyenMinhPhuc-CNPM-BaiKT2\\App.xaml",
+              "ToolTip": "D:\\frmShippers_2121050560_NguyenMinhPhuc\\NguyenMinhPhuc-CNPM-BaiKT2\\NguyenMinhPhuc-CNPM-BaiKT2\\App.xaml",
+              "RelativeToolTip": "NguyenMinhPhuc-CNPM-BaiKT2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T09:42:44.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\frmShippers_2121050560_NguyenMinhPhuc\\NguyenMinhPhuc-CNPM-BaiKT2\\NguyenMinhPhuc-CNPM-BaiKT2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NguyenMinhPhuc-CNPM-BaiKT2\\MainWindow.xaml",
+              "ToolTip": "D:\\frmShippers_2121050560_NguyenMinhPhuc\\NguyenMinhPhuc-CNPM-BaiKT2\\NguyenMinhPhuc-CNPM-BaiKT2\\MainWindow.xaml",
+              "RelativeToolTip": "NguyenMinhPhuc-CNPM-BaiKT2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T09:29:57.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\frmShippers_2121050560_NguyenMinhPhuc\\NguyenMinhPhuc-CNPM-BaiKT2\\NguyenMinhPhuc-CNPM-BaiKT2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NguyenMinhPhuc-CNPM-BaiKT2\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\frmShippers_2121050560_NguyenMinhPhuc\\NguyenMinhPhuc-CNPM-BaiKT2\\NguyenMinhPhuc-CNPM-BaiKT2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "NguyenMinhPhuc-CNPM-BaiKT2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:29:55.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

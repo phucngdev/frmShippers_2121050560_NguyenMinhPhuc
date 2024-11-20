@@ -1,0 +1,9 @@
+﻿<Application x:Class="NguyenMinhPhuc_CNPM_BaiKT2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:NguyenMinhPhuc_CNPM_BaiKT2"
+             StartupUri="frmShippers_2121050560_NguyenMinhPhuc.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
